@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Perarivalan
 
-Aspiring **AI & Data Science Engineer** from India — learning Python, machine learning, and data analysis while building practical projects and improving communication for job readiness.
+Aspiring **AI & Data Science Engineer** from Chennai — learning Python, machine learning, and data analysis while building practical projects and improving communication for job readiness.
 
 ---
 
@@ -11,7 +11,7 @@ Aspiring **AI & Data Science Engineer** from India — learning Python, machine 
 * Learning Python, NumPy, Pandas, Matplotlib
 * Practicing ML fundamentals and small deep learning models
 * Building portfolio projects and data-analysis demos
-* Interview and communication practice for JRP/industry readiness
+
 
 ---
 
@@ -35,7 +35,7 @@ Aspiring **AI & Data Science Engineer** from India — learning Python, machine 
 
 ## 🎯 Goals
 
-* Build a portfolio of 4–6 small, well-documented projects
+* Build a portfolio of 4–6 , well-documented projects
 * Gain confidence in technical interviews and communication
 * Transition into an entry-level AI/Data role
 
