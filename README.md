@@ -1,5 +1,5 @@
 # Peruks-Peruks
-<img src="https://raw.githubusercontent.com/Peruks/Peruks-Peruks/main/your-banner-filename.png" alt="Banner" style="max-width:100%" />
+
 <img src="/mnt/data/A_banner_for_Perarivalan,_an_aspiring_AI_&_Data_Sc.png" alt="Perarivalan banner" style="max-width:100%" />
 
 # 👋 Hi, I’m Perarivalan
@@ -47,8 +47,8 @@ Aspiring **AI & Data Science Engineer** from India — learning Python, machine 
 
 * Website: [https://perarivalan.vercel.app/](https://perarivalan.vercel.app/)
 * Twitter: [https://twitter.com/MrSecret143](https://twitter.com/MrSecret143)
-* LinkedIn: *add your LinkedIn profile URL here*
-* Email: [perarivalan.dev@gmail.com](mailto:perarivalan.dev@gmail.com) (optional — set public/private in GitHub settings)
+* LinkedIn: [https://www.linkedin.com/in/perarivalanks/)
+
 
 ---
 
