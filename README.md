@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Perarivalan</h1>
-<h3 align="center">Transitioning into Data Science & AI with a strong foundation in maths and problem-solving.</h3>
+<h3 align="center">Aspiring Data Analyst / Junior Data Scientist with strong analytical ability and hands-on experience in Python, SQL, and exploratory data analysis.</h3>
 
 ---
 
@@ -8,11 +8,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/perarivalanks/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://perarivalan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -51,9 +51,39 @@
 
 ## 👨‍🎓 About Me
 
-- Transitioning into **Data Science & AI**
-- Strong foundation in **maths, logic, and structured problem-solving**
-- Hands-on experience as a **Network Operations Engineer at UST Global**
-- Exposure to the **Web3 ecosystem**, including validator node setup
-- Currently focusing on **Python, SQL, and data analysis**
-- Building practical, consistent projects to strengthen real-world skills
+- Entry-level Data Analyst with practical exposure to **Python, SQL, data cleaning, and EDA**
+- Skilled in **Matplotlib, Seaborn, and Plotly** for visualization
+- Currently part of the **TNSDC–Cultus AI Programmer Program**  
+  focusing on Python, Data Analysis, and ML
+- Hands-on experience with:
+  - **Network Operations at UST Global (2018)**
+  - **Web3 validator research, Linux servers, and monitoring tools**
+- Strong foundation in **analytical reasoning and structured problem-solving**
+- Consistent self-learning habit with focus on real-world data projects
+
+---
+
+## 📌 Projects
+
+### 🔹 Retail Sales Data Cleaning & EDA (Ongoing)
+- Cleaned, formatted, and validated raw sales data using pandas  
+- Performed EDA to identify patterns and trends  
+- Built clear visualizations using Matplotlib and Seaborn  
+- Preparing dataset for basic predictive modelling  
+:contentReference[oaicite:0]{index=0}
+
+### 🔹 Customer Churn Prediction — ML Model (Ongoing)
+- Preprocessed data (encoding, scaling, splits)  
+- Built a baseline Logistic Regression model  
+- Evaluated accuracy, recall, and confusion matrix  
+- Improving performance with simple tuning  
+:contentReference[oaicite:1]{index=1}
+
+### 🔹 Python Automation Mini Project (Completed)
+- Created a Python automation script using OS operations  
+- Automated repetitive file/log tasks  
+- Improved efficiency using loops, functions, and modular code  
+:contentReference[oaicite:2]{index=2}
+
+---
+
