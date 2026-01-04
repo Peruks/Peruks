@@ -1,89 +1,105 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Perarivalan</h1>
-<h3 align="center">Aspiring Data Analyst / Junior Data Scientist with strong analytical ability and hands-on experience in Python, SQL, and exploratory data analysis.</h3>
+## 👋 Hi, I'm Perarivalan
+
+Data Analyst / Junior Data Scientist practitioner with strong analytical ability and hands-on experience in Python, SQL, and exploratory data analysis. I enjoy solving real-world problems, building data workflows, and presenting insights with clarity and structure.
 
 ---
 
 ## 🌐 Socials
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/perarivalanks/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://perarivalan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perarivalanks/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://perarivalan.vercel.app/)
 
 ---
 
-## 💻 Tech Stack
+## 🧩 Tech Stack
 
-### **Core Skills**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+### 🔹 Core Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### **Data Analysis & AI (Current Focus)**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
+### 🔹 Data Analysis & AI (Current Focus)
+![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0C5A5A?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### **Other Experience**
-<p>
-  <img src="https://img.shields.io/badge/Networking-0B5FFF?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-121D33?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
+### 🔹 Other Experience
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge)
+![Web3](https://img.shields.io/badge/Web3-181717?style=for-the-badge)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-3DDC84?style=for-the-badge)
 
 ---
 
-## 👨‍🎓 About Me
+## 🧠 Featured Projects (Premium Layout)
 
-- Entry-level Data Analyst with practical exposure to **Python, SQL, data cleaning, and EDA**
-- Skilled in **Matplotlib, Seaborn, and Plotly** for visualization
-- Currently part of the **TNSDC–Cultus AI Programmer Program**  
-  focusing on Python, Data Analysis, and ML
-- Hands-on experience with:
-  - **Network Operations at UST Global (2018)**
-  - **Web3 validator research, Linux servers, and monitoring tools**
-- Strong foundation in **analytical reasoning and structured problem-solving**
-- Consistent self-learning habit with focus on real-world data projects
+### 🧾 Blockchain Wallet Analytics Dashboard
+A blockchain analytics mini-tool that simulates a real-world data workflow — fetching transaction data, organizing it, and presenting insights for wallet activity exploration. Focus areas include API-based retrieval, structuring, and interpretation of behavioral patterns.
+
+**Domains:** Analytics • API • Data Workflow  
+**Tech:** Python • Pandas • Visualization
 
 ---
 
-## 📌 Projects
+### 🏘 Housing Market Insights & Price Analysis
+An insight-driven analytical project studying locality-level pricing, rental variations, and trend patterns. Emphasizes structured presentation, feature interpretation, and metric-based decision insights.
 
-### 🔹 Retail Sales Data Cleaning & EDA (Ongoing)
-- Cleaned, formatted, and validated raw sales data using pandas  
-- Performed EDA to identify patterns and trends  
-- Built clear visualizations using Matplotlib and Seaborn  
-- Preparing dataset for basic predictive modelling  
-:contentReference[oaicite:0]{index=0}
-
-### 🔹 Customer Churn Prediction — ML Model (Ongoing)
-- Preprocessed data (encoding, scaling, splits)  
-- Built a baseline Logistic Regression model  
-- Evaluated accuracy, recall, and confusion matrix  
-- Improving performance with simple tuning  
-:contentReference[oaicite:1]{index=1}
-
-### 🔹 Python Automation Mini Project (Completed)
-- Created a Python automation script using OS operations  
-- Automated repetitive file/log tasks  
-- Improved efficiency using loops, functions, and modular code  
-:contentReference[oaicite:2]{index=2}
+**Domains:** Data Analysis • Research • Interpretation  
+**Tech:** Python • Seaborn • Matplotlib
 
 ---
 
+### 🌐 Web Scraping → Structured API Data Pipeline
+A data-engineering workflow that converts scraped website data into a clean, structured, API-ready dataset — including preprocessing, cleaning, and transformation for downstream usage.
+
+**Domains:** Web Scraping • Automation • ETL  
+**Tech:** Python • Requests • Pandas
+
+---
+
+## 🗂 Additional Projects (Badge-Style)
+
+### 🔍 Anomaly Detection using Variational Autoencoder (VAE)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0E8A16?style=flat-square)
+![Experimentation](https://img.shields.io/badge/Experimentation-FFB703?style=flat-square)
+
+Applies VAE modeling to detect deviations in normal behavioral patterns with iterative experimentation and interpretation.
+
+---
+
+### 🧾 Analytical Case Studies & Insight Documentation
+![Documentation](https://img.shields.io/badge/Documentation-4B8BBE?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6F00?style=flat-square)
+
+A structured collection of troubleshooting notes, reasoning steps, learning reflections, and analytical thought processes.
+
+---
+
+### ⚙️ Automated File Sorting & Workflow Utility
+![Automation](https://img.shields.io/badge/Automation-FFC107?style=flat-square)
+![Productivity](https://img.shields.io/badge/Productivity-0A66C2?style=flat-square)
+
+A practical scripting utility for organizing files by type and improving digital workspace efficiency.
+
+---
+
+## 🎯 Learning & Goals
+
+- Strengthening SQL, Python, and exploratory data analysis  
+- Building real-world, workflow-oriented data projects  
+- Improving communication and structured analytical thinking  
+- Preparing for Data / AI job opportunities
+
+---
+
+## 📬 Contact
+
+  
+🌐 Portfolio — https://perarivalan.vercel.app/  
+🔗 LinkedIn — https://www.linkedin.com/in/perarivalanks/
