@@ -36,7 +36,7 @@ Data Analyst / Junior Data Scientist practitioner with strong analytical ability
 
 ---
 
-## 🧠 Featured Projects (Premium Layout)
+## 🧠 Featured Projects 
 
 ### 🧾 Blockchain Wallet Analytics Dashboard
 A blockchain analytics mini-tool that simulates a real-world data workflow — fetching transaction data, organizing it, and presenting insights for wallet activity exploration. Focus areas include API-based retrieval, structuring, and interpretation of behavioral patterns.
@@ -62,7 +62,7 @@ A data-engineering workflow that converts scraped website data into a clean, str
 
 ---
 
-## 🗂 Additional Projects (Badge-Style)
+## 🗂 Additional Projects 
 
 ### 🔍 Anomaly Detection using Variational Autoencoder (VAE)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
